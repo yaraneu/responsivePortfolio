@@ -1,0 +1,15 @@
+body {
+    background: url(https://perso.liris.cnrs.fr/romuald.thion/files/RT_Talks/PGFR/img/Abstract-background-white-12.jpg);
+}
+
+img {
+    float: left;
+   margin-right: 13px;
+}
+p {
+    margin: 3px;;
+}
+
+h1 {
+    /* padding: 10px; */
+}
